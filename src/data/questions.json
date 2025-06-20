@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "question": "Trafik işaretlerinin amacı nedir?",
+      "options": ["Yönlendirme", "Uyarı", "Yasaklama", "Hepsi"],
+      "answer": "Hepsi"
+    },
+    {
+      "id": 2,
+      "question": "İlk yardım nedir?",
+      "options": [
+        "Profesyonel sağlık hizmeti",
+        "Ambulans çağırma",
+        "Olay yerinde geçici müdahale",
+        "Hiçbiri"
+      ],
+      "answer": "Olay yerinde geçici müdahale"
+    }
+  ]
+  
